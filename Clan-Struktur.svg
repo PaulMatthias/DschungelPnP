@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="Clan-Struktur.svg"
+   inkscape:export-filename="/home/UNI-GREIFSWALD/pm101481/Pnp-Heroes/Clan-Struktur.png"
+   inkscape:export-xdpi="88.963699"
+   inkscape:export-ydpi="88.963699">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4523"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="27.517859"
+     inkscape:cy="550.4521"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2558"
+     inkscape:window-height="1038"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="81.64286"
+       y="71.726189"
+       id="text4495"><tspan
+         sodipodi:role="line"
+         id="tspan4493"
+         x="81.64286"
+         y="71.726189"
+         style="stroke-width:0.26458332px">Stammes Haeuptling</tspan><tspan
+         sodipodi:role="line"
+         x="81.64286"
+         y="77.513947"
+         style="stroke-width:0.26458332px"
+         id="tspan4497" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.36401537px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.21451,2.2597038 -0.29791086,294.35335 210.45374,294.39919 Z"
+       id="path4499"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.839287"
+       y="91.758926"
+       id="text4503"><tspan
+         sodipodi:role="line"
+         id="tspan4501"
+         x="74.839287"
+         y="91.758926"
+         style="stroke-width:0.26458332px">Schamanen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.6369"
+       y="104.61012"
+       id="text4507"><tspan
+         sodipodi:role="line"
+         id="tspan4505"
+         x="112.6369"
+         y="104.61012"
+         style="stroke-width:0.26458332px">Krieger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="69.925591"
+       y="125.77679"
+       id="text4511"><tspan
+         sodipodi:role="line"
+         id="tspan4509"
+         x="69.925591"
+         y="125.77679"
+         style="stroke-width:0.26458332px">Bauern</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.130959"
+       y="172.64581"
+       id="text4515"><tspan
+         sodipodi:role="line"
+         id="tspan4513"
+         x="80.130959"
+         y="172.64581"
+         style="stroke-width:0.26458332px">Sammler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.25893"
+       y="151.85715"
+       id="text4519"><tspan
+         sodipodi:role="line"
+         id="tspan4517"
+         x="112.25893"
+         y="151.85715"
+         style="stroke-width:0.26458332px">Viehhirten</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+       d="M 7.5595238,13.517857 7.9374999,225.5625"
+       id="path4521"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-134.0329"
+       y="13.102213"
+       id="text4807"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4805"
+         x="-134.0329"
+         y="13.102213"
+         style="stroke-width:0.26458332px">Ansehen und Macht</tspan><tspan
+         sodipodi:role="line"
+         x="-134.0329"
+         y="18.889975"
+         style="stroke-width:0.26458332px"
+         id="tspan4809">innerhalb des Clans</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.476189"
+       y="184.74106"
+       id="text4813"><tspan
+         sodipodi:role="line"
+         id="tspan4811"
+         x="60.476189"
+         y="184.74106"
+         style="stroke-width:0.26458332px">Erzieher</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.241072,77.773809 H 133.04762"
+       id="path4815"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.389881,113.30357 80.508929,-0.37798"
+       id="path4817"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.514881,157.14881 160.2619,156.01488"
+       id="path4819"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.970239,215.73512 181.80655,214.22321"
+       id="path4821"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.318451"
+       y="234.63393"
+       id="text4825"><tspan
+         sodipodi:role="line"
+         id="tspan4823"
+         x="56.318451"
+         y="234.63393"
+         style="stroke-width:0.26458332px">Kinder </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.005959"
+       y="239.54762"
+       id="text4829"><tspan
+         sodipodi:role="line"
+         id="tspan4827"
+         x="96.005959"
+         y="239.54762"
+         style="stroke-width:0.26458332px">alte/kranke Stammesmitglieder</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.119047,251.64285 195.03571,251.26488"
+       id="path4831"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.514877"
+       y="271.29758"
+       id="text4835"><tspan
+         sodipodi:role="line"
+         id="tspan4833"
+         x="49.514877"
+         y="271.29758"
+         style="stroke-width:0.26458332px">Vieh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="130.77977"
+       y="282.25894"
+       id="text4839"><tspan
+         sodipodi:role="line"
+         id="tspan4837"
+         x="130.77977"
+         y="282.25894"
+         style="stroke-width:0.26458332px">Verbecher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.63020849px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.36905"
+       y="195.3244"
+       id="text4845"><tspan
+         sodipodi:role="line"
+         id="tspan4843"
+         x="110.36905"
+         y="195.3244"
+         style="stroke-width:0.26458332px">Lerhlinge der </tspan><tspan
+         sodipodi:role="line"
+         x="110.36905"
+         y="201.11217"
+         style="stroke-width:0.26458332px"
+         id="tspan4847">diversen Klassen</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:0.41004184;stroke:#ffff00;stroke-width:5.02511501;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4849"
+       width="48.534523"
+       height="19.052385"
+       x="104.43362"
+       y="187.4991" />
+    <rect
+       style="fill:#9f0000;fill-opacity:0.60728747;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4853"
+       width="54.806545"
+       height="15.875"
+       x="78.241074"
+       y="61.898808" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4855"
+       width="34.773811"
+       height="11.339286"
+       x="70.681549"
+       y="84.199409" />
+    <rect
+       style="fill:#0000ff;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4857"
+       width="30.616068"
+       height="12.473207"
+       x="105.45536"
+       y="95.538689" />
+    <rect
+       style="fill:#ffff00;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4859"
+       width="27.214279"
+       height="9.8273764"
+       x="64.633926"
+       y="121.24107" />
+    <rect
+       style="fill:#ffff00;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4861"
+       width="30.616072"
+       height="11.717261"
+       x="108.1012"
+       y="143.91963" />
+    <rect
+       style="fill:#66ff00;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4863"
+       width="33.261906"
+       height="11.339286"
+       x="72.571426"
+       y="163.5744" />
+    <rect
+       style="fill:#00ff00;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4865"
+       width="34.773811"
+       height="10.205358"
+       x="52.916664"
+       y="178.69345" />
+    <rect
+       style="fill:#ff55dd;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4867"
+       width="24.190477"
+       height="10.583333"
+       x="51.026787"
+       y="227.45238" />
+    <rect
+       style="fill:#ff2ad4;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4869"
+       width="85.800591"
+       height="11.339286"
+       x="89.958336"
+       y="231.9881" />
+    <rect
+       style="fill:#550000;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4871"
+       width="16.252975"
+       height="7.5595236"
+       x="46.49107"
+       y="266.00592" />
+    <rect
+       style="fill:#550000;fill-opacity:0.60728748;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4873"
+       width="34.773811"
+       height="10.961308"
+       x="126.62202"
+       y="274.6994" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.02024291;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4538"
+       width="209.69778"
+       height="295.24442"
+       x="0.75595242"
+       y="-0.84523809" />
+  </g>
+</svg>
